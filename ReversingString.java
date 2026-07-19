@@ -1,4 +1,17 @@
-public class ReversingString {
+public class ReversingString{
+    public static void main (String[] agrs){
+        String ActualString="Lucky is learing java";
+        String reversedString="";
+        for(int i=ActualString.length()-1;i>=0;i--){
+            reversedString=reversedString+ActualString.charAt(i);
+            }
+        System.out.println("Original String: "+ActualString);
+        System.out.println("Reversed String: "+reversedString);
+    }
+}
+
+
+/*public class ReversingString {
     public static void main(String[] args) {
         String original = "Hello, World!";
         String reversed = reverseString(original);
@@ -14,3 +27,4 @@ public class ReversingString {
         return reversed.toString();
     }
 }
+*/
