@@ -1,1 +1,2 @@
 Question 1: Write a Java Program to reverse a String.
+Question 2:  Write a Java Program to swap two given Strings
