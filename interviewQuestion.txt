@@ -4,3 +4,8 @@ Question 3: Write a Java Program to print the Fibonacci Series.
 Question 4: Write a Java Program to check if a number is Armstrong number or not.
 Question 5: Write a Java Program to print the sum of digits of a given integer.
 Question 6: Write a Java Program to check if a number is Prime or not.
+Question 7:  Write a Java Program to count the number of characters in a given String.
+Write a Java Program to find the duplicates of a given String.
+Question 9: Write a Java Program for swapping of 2 numbers.
+Question 10: Write a Java Program to reverse an array?
+Question 11: Write a Java Program to get the count of Capitalized words in a String.
